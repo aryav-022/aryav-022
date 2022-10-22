@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryav-022" alt="aryav-022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aryavbhola" target="blank"><img src="https://img.shields.io/twitter/follow/aryavbhola?logo=twitter&style=for-the-badge" alt="aryavbhola" /></a> </p>
-
 - 🔭 I’m currently working on **Google Developer Student Club's website**
 
 - 🌱 I’m currently learning **Socket.io**
@@ -21,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/aryav-022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aryav-022" height="30" width="40" /></a>
 <a href="https://dev.to/aryav022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryav022" height="30" width="40" /></a>
-<a href="https://twitter.com/aryavbhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryavbhola" height="30" width="40" /></a>
+<a href="https://twitter.com/AryavBhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AryavBhola" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryavbhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryavbhola" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17156007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17156007" height="30" width="40" /></a>
 <a href="https://kaggle.com/aryavbhola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryavbhola" height="30" width="40" /></a>
